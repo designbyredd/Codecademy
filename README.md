@@ -1,3 +1,3 @@
 # Codecademy
 
-https://github.com/designbyredd/Codecademy/index.html
+https://designbyredd.github.io/Codecademy/index.html
